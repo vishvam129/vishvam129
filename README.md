@@ -1,6 +1,6 @@
 # Hi, I'm Vishvam Patel 👋
 
-I build AI products end to end — the model, the backend that runs it, and the interface on top. AI Developer at RdFlex, and an M.E. student in Information Technology at L.D. College of Engineering, Ahmedabad.
+I build AI products end to end — the model, the backend that runs it, and the interface on top.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishvam129-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvam129/)
 [![Email](https://img.shields.io/badge/Email-vishvamp129%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white)](mailto:vishvamp129@gmail.com)
@@ -34,6 +34,4 @@ I build AI products end to end — the model, the backend that runs it, and the 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📈 Currently
 
-- M.E. in Information Technology at L.D. College of Engineering (GTU)
