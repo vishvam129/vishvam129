@@ -2,7 +2,7 @@
 
 I build AI products end to end — the model, the backend that runs it, and the interface on top. AI Developer at RdFlex, and an M.E. student in Information Technology at L.D. College of Engineering, Ahmedabad.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishvamp129-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvamp129)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishvam129-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvam129/)
 [![Email](https://img.shields.io/badge/Email-vishvamp129%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white)](mailto:vishvamp129@gmail.com)
 
 ## 🚀 Projects
