@@ -38,5 +38,3 @@ I build AI products end to end — the model, the backend that runs it, and the 
 
 - Building [Vrixo](https://github.com/vishvam129/vrixo)
 - M.E. in Information Technology at L.D. College of Engineering (GTU)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=vishvam129&show_icons=true&theme=default&hide_border=true)
